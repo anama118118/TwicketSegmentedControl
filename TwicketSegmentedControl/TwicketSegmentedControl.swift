@@ -96,7 +96,7 @@ open class TwicketSegmentedControl: UIControl {
 
     open var isSliderShadowHidden: Bool = false {
         didSet {
-            updateShadow(with: sliderBackgroundColor, hidden: isSliderShadowHidden)
+            //updateShadow(with: sliderBackgroundColor, hidden: isSliderShadowHidden)
         }
     }
 
@@ -174,12 +174,12 @@ open class TwicketSegmentedControl: UIControl {
         [backgroundView, selectedContainerView].forEach { $0.layer.cornerRadius = cornerRadius }
         sliderView.cornerRadius = cornerRadius
 
-        backgroundColor = .white
+        backgroundColor = .clear
         backgroundView.backgroundColor = segmentsBackgroundColor
         selectedContainerView.backgroundColor = sliderBackgroundColor
 
         if !isSliderShadowHidden {
-            selectedContainerView.addShadow(with: sliderBackgroundColor)
+            //selectedContainerView.addShadow(with: sliderBackgroundColor)
         }
     }
 

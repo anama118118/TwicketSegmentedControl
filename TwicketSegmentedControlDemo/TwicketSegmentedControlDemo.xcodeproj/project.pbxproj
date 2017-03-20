@@ -186,7 +186,7 @@
 				TargetAttributes = {
 					C18581821D8D7220001A9A00 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = TT6EHSB5EG;
+						DevelopmentTeam = 26RHXP32FH;
 						ProvisioningStyle = Automatic;
 					};
 					C185819C1D8D7237001A9A00 = {
@@ -384,7 +384,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = TT6EHSB5EG;
+				DEVELOPMENT_TEAM = 26RHXP32FH;
 				INFOPLIST_FILE = TwicketSegmentedControlDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Pol-Quintana.TwicketSegmentedControlDemo";
@@ -398,7 +398,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = TT6EHSB5EG;
+				DEVELOPMENT_TEAM = 26RHXP32FH;
 				INFOPLIST_FILE = TwicketSegmentedControlDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Pol-Quintana.TwicketSegmentedControlDemo";
